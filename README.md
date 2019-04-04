@@ -33,6 +33,7 @@ An automatic configuration program for vim
 
     ```bash
     git clone https://github.com/chxuan/vimplus.git ~/.vimplus
+    git clone https://github.com/xwliu/vimplus.git ~/.vimplus
     cd ~/.vimplus
     ./install.sh
     ```
